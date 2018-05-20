@@ -41,7 +41,7 @@ img{
 
 }
 .footer {
-    position: relative;;
+    position: fixed;
     border-top: 10px solid teal;
     width: 100%;
     background-color: #666666;
@@ -52,7 +52,7 @@ img{
 
 
 }
-#contact{
+#contact h2{
     color: teal;
 }
 
@@ -60,7 +60,7 @@ textarea{
     height: 10%;
 
 }
-nav-item a {
+ a {
     text-decoration: none;
 }
 
