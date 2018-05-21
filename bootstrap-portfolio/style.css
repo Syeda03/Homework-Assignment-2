@@ -1,4 +1,8 @@
-
+.responsive{
+    height: auto;
+    width: 100%;
+    
+}
 p{
     text-align: justify;
 }
